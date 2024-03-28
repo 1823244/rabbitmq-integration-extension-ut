@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
+	<ConfigVersions>
+		<Metadata name="Catalog.БанковскиеСчетаКонтрагентов" id="7a8c383e-b681-4990-ba14-712e9ad5532f" configVersion="99daaa39d3f37051c32295bfd69daab0f14d8d0e"/>
+		<Metadata name="Catalog.БанковскиеСчетаОрганизаций" id="b9b07491-e4f7-4a37-9c93-26c7aa8857a8" configVersion="8c1a66179a910c78b8b47f5a7ddcce7d7240e681">
+			<Metadata name="Catalog.БанковскиеСчетаОрганизаций.Attribute.НомерСчета" id="57151cad-4557-48e2-b825-9e905fe659b9"/>
+			<Metadata name="Catalog.БанковскиеСчетаОрганизаций.Attribute.Банк" id="abb153b4-23e1-47bd-9c65-3678cf2886a9"/>
+		</Metadata>
+		<Metadata name="Catalog.БонусныеПрограммыЛояльности" id="f0e19efb-95c2-49ab-b6df-57ee5e17b46b" configVersion="ad39448a676fe46486ea45f1ad2e9d1f629aa8fb"/>
+		<Metadata name="Catalog.ГруппыФинансовогоУчетаРасчетов" id="fedcd484-5c81-4a38-9e8e-2ea86b8e3b5b" configVersion="098779c2932a5a9fe836e666f60192548b4b3216"/>
+		<Metadata name="Catalog.КлассификаторБанков" id="08e579c2-7837-4561-80a6-922ec67f22d2" configVersion="5f2a74f2d69b55131e61d63aec446a0a293dffdc"/>
+		<Metadata name="Catalog.КлючиАналитикиУчетаНоменклатуры" id="9917c31c-e9a6-4c29-899b-3c6d719294bb" configVersion="bfb25497957079d9ff5cc5974482ebc0ba97359a"/>
+		<Metadata name="Catalog.Назначения" id="a27da750-9b1a-4800-91a1-f4fef73ae6c6" configVersion="2d69ae288efe6e2441e7f61d9b92c40a15fcf14a"/>
+		<Metadata name="Catalog.СкидкиНаценки" id="4a98c170-0579-4120-bcb1-e6c9cf6612bd" configVersion="e1458036181428770ef679873e404e786ec49a87"/>
+		<Metadata name="Catalog.СтруктураПредприятия" id="50d51791-3a98-4288-9e36-cdc4c528846a" configVersion="f8f4641ebe1aa37b1bf297a49cbd89ffe18281ad"/>
+		<Metadata name="CommonModule.ксп_Блокировки" id="ebe3aa30-2bd7-4be7-a79c-916ecba2bfa9" configVersion="5ff555eafb2fd938acc9588b0ed5be8da7bd3a25"/>
+		<Metadata name="CommonModule.ксп_Блокировки.Module" id="ebe3aa30-2bd7-4be7-a79c-916ecba2bfa9.0" configVersion="817c47c17fa368129fd79faaa50666dc7e8ffde1"/>
+		<Metadata name="CommonModule.ксп_ИмпортСлужебный" id="67907534-9641-4a60-bbd6-81d11d5f3b31" configVersion="f68337800ab61665b181d4307deedccafd365579"/>
+		<Metadata name="CommonModule.ксп_ИмпортСлужебный.Module" id="67907534-9641-4a60-bbd6-81d11d5f3b31.0" configVersion="298c9ceb4ed8e8fffe10501b854cdd2b6448e57a"/>
+		<Metadata name="CommonModule.ксп_ПодпискиНаСобытие" id="35b170df-07b2-49c6-b297-8e83c2ffef9b" configVersion="ce1419d5455857638d568e136ee6e86408f7cd15"/>
+		<Metadata name="CommonModule.ксп_ЭкспортСлужебный" id="88bca90b-a7c9-493e-a4dc-5987368a4bcf" configVersion="633b4608543e75febfe716a85a967a29287aa707"/>
+		<Metadata name="CommonModule.ксп_ЭкспортСлужебный.Module" id="88bca90b-a7c9-493e-a4dc-5987368a4bcf.0" configVersion="531dd8e51fa0fa444ae1959ce0ee340b09b1e768"/>
+		<Metadata name="Configuration.ксп_интеграция_УТ" id="220e17b3-34b8-48a4-8b14-da10ffb28f76" configVersion="8bc231b1f54f5b7823d0cafde41544c7446d9d23"/>
+		<Metadata name="Constant.ксп_УзелОбменаЕРП" id="6ff4601b-1df8-4b9d-9f95-b883f53cae41" configVersion="9c3061228e789e6eb99edd4285a49c272dd71581"/>
+		<Metadata name="Document.ВозвратТоваровОтКлиента" id="25f89374-f2b0-4f6a-9321-68c57fcc9a24" configVersion="090462e64c23e79b04e7eb97c249824ad6f44472"/>
+		<Metadata name="Document.РеализацияТоваровУслуг" id="e43efc8d-2b2a-434e-8798-c6d10534c4b8" configVersion="9de2bebd0a17d3197945fd45076b2d8a06700e87"/>
+		<Metadata name="ExchangePlan.ксп_интеграция_с_ЕРП" id="902c6dca-4e9d-40f9-a7af-39bf6a036fbf" configVersion="49d4aa6a3a7b5154c9c0f209f4f532c86b90b551"/>
+		<Metadata name="ExchangePlan.ксп_интеграция_с_ЕРП.Content" id="902c6dca-4e9d-40f9-a7af-39bf6a036fbf.1" configVersion="3267d1a7e73eaef1ba8553ebdcc55bbc321cd2b2"/>
+		<Metadata name="Language.Русский" id="7d1c10d9-c1da-4053-98f5-c66007b1a4d5" configVersion="a86a89404a602157ef80fe1d3cd67e7fd2debe49"/>
+		<Metadata name="Role.ксп_ОсновнаяРоль" id="2afe5813-8460-43d1-905e-c7215ed64627" configVersion="fcac8e725ac1143b4f57b77104adab92ddd962bb"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
