@@ -2,30 +2,30 @@
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
 	<Constant uuid="6ff4601b-1df8-4b9d-9f95-b883f53cae41">
 		<InternalInfo>
-			<xr:GeneratedType name="ConstantManager.ксп_УзелОбменаЕРП" category="Manager">
+			<xr:GeneratedType name="ConstantManager.ксп_УзелОбменаRabbit" category="Manager">
 				<xr:TypeId>7c34b46e-526e-4526-93f2-6af413b9e2f7</xr:TypeId>
 				<xr:ValueId>3712137f-24a6-4d36-b032-b20c957c26e0</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="ConstantValueManager.ксп_УзелОбменаЕРП" category="ValueManager">
+			<xr:GeneratedType name="ConstantValueManager.ксп_УзелОбменаRabbit" category="ValueManager">
 				<xr:TypeId>6769f810-0cfc-4ffa-ac2f-7a7132db06fb</xr:TypeId>
 				<xr:ValueId>0f6062fa-56a7-4070-a74e-29356b653681</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="ConstantValueKey.ксп_УзелОбменаЕРП" category="ValueKey">
+			<xr:GeneratedType name="ConstantValueKey.ксп_УзелОбменаRabbit" category="ValueKey">
 				<xr:TypeId>d8f4e79a-9bfd-43c8-bc85-871f89c21b70</xr:TypeId>
 				<xr:ValueId>89c6fb80-1df9-481f-9e98-3b244925273c</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>ксп_УзелОбменаЕРП</Name>
+			<Name>ксп_УзелОбменаRabbit</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Ксп узел обмена ЕРП</v8:content>
+					<v8:content>Ксп узел обмена rabbit</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
 			<Type>
-				<v8:Type>cfg:ExchangePlanRef.ксп_интеграция_с_ЕРП</v8:Type>
+				<v8:Type>cfg:ExchangePlanRef.КСП_Интеграция_с_Rabbit</v8:Type>
 			</Type>
 			<UseStandardCommands>true</UseStandardCommands>
 			<DefaultForm/>

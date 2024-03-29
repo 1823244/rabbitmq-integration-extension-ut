@@ -65,14 +65,16 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>КСП_Интеграция_с_ЕРП</Subsystem>
 			<Role>ксп_ОсновнаяРоль</Role>
 			<CommonModule>ксп_ЭкспортСлужебный</CommonModule>
 			<CommonModule>ксп_ИмпортСлужебный</CommonModule>
 			<CommonModule>ксп_ПодпискиНаСобытие</CommonModule>
 			<CommonModule>ксп_Блокировки</CommonModule>
 			<CommonModule>ксп_ЭкспортСлужебныйПовтИсп</CommonModule>
-			<ExchangePlan>ксп_интеграция_с_ЕРП</ExchangePlan>
-			<Constant>ксп_УзелОбменаЕРП</Constant>
+			<ExchangePlan>КСП_Интеграция_с_Rabbit</ExchangePlan>
+			<EventSubscription>ксп_ПриЗаписиДокумента</EventSubscription>
+			<Constant>ксп_УзелОбменаRabbit</Constant>
 			<Catalog>БанковскиеСчетаОрганизаций</Catalog>
 			<Catalog>КлассификаторБанков</Catalog>
 			<Catalog>БанковскиеСчетаКонтрагентов</Catalog>
