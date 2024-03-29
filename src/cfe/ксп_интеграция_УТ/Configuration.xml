@@ -70,6 +70,7 @@
 			<CommonModule>ксп_ИмпортСлужебный</CommonModule>
 			<CommonModule>ксп_ПодпискиНаСобытие</CommonModule>
 			<CommonModule>ксп_Блокировки</CommonModule>
+			<CommonModule>ксп_ЭкспортСлужебныйПовтИсп</CommonModule>
 			<ExchangePlan>ксп_интеграция_с_ЕРП</ExchangePlan>
 			<Constant>ксп_УзелОбменаЕРП</Constant>
 			<Catalog>БанковскиеСчетаОрганизаций</Catalog>
@@ -81,8 +82,12 @@
 			<Catalog>СкидкиНаценки</Catalog>
 			<Catalog>БонусныеПрограммыЛояльности</Catalog>
 			<Catalog>КлючиАналитикиУчетаНоменклатуры</Catalog>
+			<Catalog>Организации</Catalog>
+			<Catalog>ВидыНоменклатуры</Catalog>
 			<Document>РеализацияТоваровУслуг</Document>
 			<Document>ВозвратТоваровОтКлиента</Document>
+			<InformationRegister>ксп_МэппингСправочникОрганизации</InformationRegister>
+			<InformationRegister>ксп_МэппингСправочникВидыНоменклатуры</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
