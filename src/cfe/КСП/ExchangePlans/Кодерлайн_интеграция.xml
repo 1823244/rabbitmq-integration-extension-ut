@@ -3,29 +3,29 @@
 	<ExchangePlan uuid="902c6dca-4e9d-40f9-a7af-39bf6a036fbf">
 		<InternalInfo>
 			<xr:ThisNode>7d90787b-988c-4045-845d-82c2cc19db64</xr:ThisNode>
-			<xr:GeneratedType name="ExchangePlanObject.КСП_Интеграция_с_Rabbit" category="Object">
+			<xr:GeneratedType name="ExchangePlanObject.Кодерлайн_интеграция" category="Object">
 				<xr:TypeId>da6b5bbb-ab5d-4ad5-a4ec-061e20f1d6be</xr:TypeId>
 				<xr:ValueId>a36fda63-cce8-4f42-89b5-cab71860d58e</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="ExchangePlanRef.КСП_Интеграция_с_Rabbit" category="Ref">
+			<xr:GeneratedType name="ExchangePlanRef.Кодерлайн_интеграция" category="Ref">
 				<xr:TypeId>0efd3c2f-ed5e-43c1-a3e7-7cc53052f9bd</xr:TypeId>
 				<xr:ValueId>576c644c-2f1e-4ce5-a6c5-3e53080a2369</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="ExchangePlanSelection.КСП_Интеграция_с_Rabbit" category="Selection">
+			<xr:GeneratedType name="ExchangePlanSelection.Кодерлайн_интеграция" category="Selection">
 				<xr:TypeId>2a2869b7-3e4c-435f-a9e9-2e5d2a3e1530</xr:TypeId>
 				<xr:ValueId>0b2e94c2-6561-4b77-ae21-009c85a7e682</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="ExchangePlanList.КСП_Интеграция_с_Rabbit" category="List">
+			<xr:GeneratedType name="ExchangePlanList.Кодерлайн_интеграция" category="List">
 				<xr:TypeId>94be0b27-812c-41c4-9b9c-593ff8061872</xr:TypeId>
 				<xr:ValueId>c060865b-7b6a-41a5-a11d-026689a596eb</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="ExchangePlanManager.КСП_Интеграция_с_Rabbit" category="Manager">
+			<xr:GeneratedType name="ExchangePlanManager.Кодерлайн_интеграция" category="Manager">
 				<xr:TypeId>7ea21604-231d-49a5-bad2-80015fd101cd</xr:TypeId>
 				<xr:ValueId>002cf5fe-3aaf-43a2-82f0-b5db992d5ebe</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>КСП_Интеграция_с_Rabbit</Name>
+			<Name>Кодерлайн_интеграция</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
@@ -42,8 +42,8 @@
 			<QuickChoice>false</QuickChoice>
 			<ChoiceMode>BothWays</ChoiceMode>
 			<InputByString>
-				<xr:Field>ExchangePlan.КСП_Интеграция_с_Rabbit.StandardAttribute.Description</xr:Field>
-				<xr:Field>ExchangePlan.КСП_Интеграция_с_Rabbit.StandardAttribute.Code</xr:Field>
+				<xr:Field>ExchangePlan.Кодерлайн_интеграция.StandardAttribute.Description</xr:Field>
+				<xr:Field>ExchangePlan.Кодерлайн_интеграция.StandardAttribute.Code</xr:Field>
 			</InputByString>
 			<SearchStringModeOnInputByString>Begin</SearchStringModeOnInputByString>
 			<FullTextSearchOnInputByString>DontUse</FullTextSearchOnInputByString>

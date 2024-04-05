@@ -33,11 +33,11 @@
 		</InternalInfo>
 		<Properties>
 			<ObjectBelonging>Adopted</ObjectBelonging>
-			<Name>ксп_интеграция_УТ</Name>
+			<Name>КСП</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Ксп интеграция УТ</v8:content>
+					<v8:content>КСП</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -72,7 +72,7 @@
 			<CommonModule>ксп_ПодпискиНаСобытие</CommonModule>
 			<CommonModule>ксп_Блокировки</CommonModule>
 			<CommonModule>ксп_ЭкспортСлужебныйПовтИсп</CommonModule>
-			<ExchangePlan>КСП_Интеграция_с_Rabbit</ExchangePlan>
+			<ExchangePlan>Кодерлайн_интеграция</ExchangePlan>
 			<EventSubscription>ксп_ПриЗаписиДокумента</EventSubscription>
 			<Constant>ксп_УзелОбменаRabbit</Constant>
 			<Catalog>БанковскиеСчетаОрганизаций</Catalog>
@@ -88,8 +88,12 @@
 			<Catalog>ВидыНоменклатуры</Catalog>
 			<Document>РеализацияТоваровУслуг</Document>
 			<Document>ВозвратТоваровОтКлиента</Document>
+			<Document>ПриобретениеТоваровУслуг</Document>
+			<Document>ЗаказКлиента</Document>
 			<InformationRegister>ксп_МэппингСправочникОрганизации</InformationRegister>
 			<InformationRegister>ксп_МэппингСправочникВидыНоменклатуры</InformationRegister>
+			<InformationRegister>ксп_ОтложенноеПроведение</InformationRegister>
+			<InformationRegister>ксп_ОтложенноеПроведениеПроблемы</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

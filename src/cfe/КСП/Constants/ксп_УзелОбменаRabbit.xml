@@ -20,12 +20,12 @@
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Ксп узел обмена rabbit</v8:content>
+					<v8:content>Узел обмена RabbitMQ</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
 			<Type>
-				<v8:Type>cfg:ExchangePlanRef.КСП_Интеграция_с_Rabbit</v8:Type>
+				<v8:Type>cfg:ExchangePlanRef.Кодерлайн_интеграция</v8:Type>
 			</Type>
 			<UseStandardCommands>true</UseStandardCommands>
 			<DefaultForm/>
