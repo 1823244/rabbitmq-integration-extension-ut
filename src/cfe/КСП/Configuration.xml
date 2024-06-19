@@ -86,14 +86,28 @@
 			<Catalog>КлючиАналитикиУчетаНоменклатуры</Catalog>
 			<Catalog>Организации</Catalog>
 			<Catalog>ВидыНоменклатуры</Catalog>
+			<Catalog>Валюты</Catalog>
+			<Catalog>Контрагенты</Catalog>
+			<Catalog>Партнеры</Catalog>
+			<Catalog>СоглашенияСКлиентами</Catalog>
+			<Catalog>СоглашенияСПоставщиками</Catalog>
+			<Catalog>ДоговорыКонтрагентов</Catalog>
+			<Catalog>Склады</Catalog>
 			<Document>РеализацияТоваровУслуг</Document>
 			<Document>ВозвратТоваровОтКлиента</Document>
 			<Document>ПриобретениеТоваровУслуг</Document>
 			<Document>ЗаказКлиента</Document>
+			<Enum>ксп_СтатусыКачестваДокументов</Enum>
+			<Enum>КСП_СтатусыОтложенногоПроведения</Enum>
+			<Enum>ксп_ВидыПроблемКачестваДокументов</Enum>
+			<Enum>ТипыРасчетовСПартнерами</Enum>
 			<InformationRegister>ксп_МэппингСправочникОрганизации</InformationRegister>
 			<InformationRegister>ксп_МэппингСправочникВидыНоменклатуры</InformationRegister>
 			<InformationRegister>ксп_ОтложенноеПроведение</InformationRegister>
 			<InformationRegister>ксп_ОтложенноеПроведениеПроблемы</InformationRegister>
+			<InformationRegister>ксп_ДополнительныеНастройкиИнтеграций</InformationRegister>
+			<InformationRegister>ксп_МэппингСправочникСклады</InformationRegister>
+			<InformationRegister>ксп_МэппингСправочникКонтрагенты</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
