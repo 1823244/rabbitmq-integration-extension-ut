@@ -21,6 +21,8 @@
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_МэппингСправочникВидыНоменклатуры</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_ДополнительныеНастройкиИнтеграций</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_ОтложенноеПроведение</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_МэппингСправочникКассы</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_МэппингСправочникФизлица</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

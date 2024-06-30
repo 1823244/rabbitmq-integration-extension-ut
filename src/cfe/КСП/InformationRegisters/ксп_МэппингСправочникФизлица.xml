@@ -1,48 +1,48 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
-	<InformationRegister uuid="a2640bbd-4f84-40da-8853-b2dab48fb8ff">
+	<InformationRegister uuid="a4536ba8-f6fd-43d9-8e6a-1fdfdd66e27b">
 		<InternalInfo>
-			<xr:GeneratedType name="InformationRegisterRecord.ксп_ОтложенноеПроведение" category="Record">
-				<xr:TypeId>e413108e-548d-4913-b873-e9504e9738e5</xr:TypeId>
-				<xr:ValueId>710088cc-a039-48b7-aadd-52e49f3b9cde</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecord.ксп_МэппингСправочникФизлица" category="Record">
+				<xr:TypeId>4ace439f-5473-4410-a342-aea324e0398f</xr:TypeId>
+				<xr:ValueId>524b4ed1-2c33-44d6-bbaf-13c3c33c1f4d</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterManager.ксп_ОтложенноеПроведение" category="Manager">
-				<xr:TypeId>87ba782d-4463-490b-be5a-0f0b2c8bfe9f</xr:TypeId>
-				<xr:ValueId>e3246485-0433-4c5a-83e4-4bfeebd067e8</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterManager.ксп_МэппингСправочникФизлица" category="Manager">
+				<xr:TypeId>6e49821d-aba3-49da-9933-ca26ef9d40ce</xr:TypeId>
+				<xr:ValueId>efe142b4-9f94-466e-be37-594671a84c64</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterSelection.ксп_ОтложенноеПроведение" category="Selection">
-				<xr:TypeId>d80a1ba5-9270-49da-b9dc-886f7cf303a4</xr:TypeId>
-				<xr:ValueId>4f288db5-f1b8-4801-9084-b5d284ef40cc</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterSelection.ксп_МэппингСправочникФизлица" category="Selection">
+				<xr:TypeId>6344ac00-a130-4425-9c7e-eb9afe7b5fa9</xr:TypeId>
+				<xr:ValueId>0e348aed-2710-4ff4-bd54-4cc2e71bad9b</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterList.ксп_ОтложенноеПроведение" category="List">
-				<xr:TypeId>476069a6-cd22-42a7-b375-ec15a3a544b0</xr:TypeId>
-				<xr:ValueId>4a38d8fd-4f02-4240-9ba8-cd35ff0e0710</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterList.ксп_МэппингСправочникФизлица" category="List">
+				<xr:TypeId>6e871aab-3ee5-453e-aa37-dbbab4ac67cc</xr:TypeId>
+				<xr:ValueId>5c656bf8-caa3-4287-8064-5107936bad3c</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterRecordSet.ксп_ОтложенноеПроведение" category="RecordSet">
-				<xr:TypeId>37a743cf-ba30-46bb-900a-4e5087cd2061</xr:TypeId>
-				<xr:ValueId>808cdcf8-06f9-4e21-951a-85b2a3f78ccd</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecordSet.ксп_МэппингСправочникФизлица" category="RecordSet">
+				<xr:TypeId>8fff0e94-1214-4462-810e-88e78c7448b1</xr:TypeId>
+				<xr:ValueId>a9901485-1e78-4b9f-bb08-61d3b8a359a7</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterRecordKey.ксп_ОтложенноеПроведение" category="RecordKey">
-				<xr:TypeId>09471060-2fff-4eb8-9a8c-971c912e0e94</xr:TypeId>
-				<xr:ValueId>80bab3cd-a2b7-4482-bba0-8e7a484b7ebf</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecordKey.ксп_МэппингСправочникФизлица" category="RecordKey">
+				<xr:TypeId>fa0ce259-f53e-4498-999d-991e43609a2e</xr:TypeId>
+				<xr:ValueId>fe9529b1-ff3b-4041-8ad7-4830a231eaf7</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterRecordManager.ксп_ОтложенноеПроведение" category="RecordManager">
-				<xr:TypeId>7a98a219-aedc-4b73-bac4-d1105bed1e3c</xr:TypeId>
-				<xr:ValueId>a9501dcd-2a20-4ddf-aa5b-4d43a5590ff4</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecordManager.ксп_МэппингСправочникФизлица" category="RecordManager">
+				<xr:TypeId>a41b2ae2-f3b6-4244-a300-b37ce3a08026</xr:TypeId>
+				<xr:ValueId>5129f572-35bc-4ecc-b621-395aa079fb7d</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>ксп_ОтложенноеПроведение</Name>
+			<Name>ксп_МэппингСправочникФизлица</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Регистр: Отложенное проведение</v8:content>
+					<v8:content>Мэппинг: справочник Физлица</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
 			<UseStandardCommands>true</UseStandardCommands>
 			<EditType>InDialog</EditType>
-			<DefaultRecordForm>InformationRegister.ксп_ОтложенноеПроведение.Form.ФормаЗаписи</DefaultRecordForm>
+			<DefaultRecordForm/>
 			<DefaultListForm/>
 			<AuxiliaryRecordForm/>
 			<AuxiliaryListForm/>
@@ -164,43 +164,43 @@
 			<ExtendedRecordPresentation/>
 			<ListPresentation/>
 			<ExtendedListPresentation/>
-			<Explanation>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Хранит факт проблемы загрузки объекта</v8:content>
-				</v8:item>
-			</Explanation>
+			<Explanation/>
 			<DataHistory>DontUse</DataHistory>
 			<UpdateDataHistoryImmediatelyAfterWrite>false</UpdateDataHistoryImmediatelyAfterWrite>
 			<ExecuteAfterWriteDataHistoryVersionProcessing>false</ExecuteAfterWriteDataHistoryVersionProcessing>
 		</Properties>
 		<ChildObjects>
-			<Resource uuid="9dd6df71-d0bd-4fd5-b0e3-596d79337061">
+			<Resource uuid="c1e216cb-bca9-4af2-bd6d-4298e2c5f8a6">
 				<Properties>
-					<Name>СтатусОбъекта</Name>
+					<Name>Физлицо</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Статус объекта</v8:content>
+							<v8:content>Физлицо</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:Type>cfg:EnumRef.ксп_СтатусыКачестваДокументов</v8:Type>
+						<v8:Type>cfg:CatalogRef.ФизическиеЛица</v8:Type>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>
 					<EditFormat/>
-					<ToolTip/>
+					<ToolTip>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Организация, от имени которой оформляется документ</v8:content>
+						</v8:item>
+					</ToolTip>
 					<MarkNegatives>false</MarkNegatives>
 					<Mask/>
 					<MultiLine>false</MultiLine>
 					<ExtendedEdit>false</ExtendedEdit>
 					<MinValue xsi:nil="true"/>
 					<MaxValue xsi:nil="true"/>
-					<FillFromFillingValue>false</FillFromFillingValue>
+					<FillFromFillingValue>true</FillFromFillingValue>
 					<FillValue xsi:nil="true"/>
-					<FillChecking>DontCheck</FillChecking>
+					<FillChecking>ShowError</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
 					<ChoiceParameterLinks/>
 					<ChoiceParameters/>
@@ -214,101 +214,20 @@
 					<DataHistory>Use</DataHistory>
 				</Properties>
 			</Resource>
-			<Resource uuid="6c646c05-9ada-4fab-9f37-87d0efaa8011">
+			<Resource uuid="39a4fa6f-00b1-49b8-8228-bdf25f978e1f">
 				<Properties>
-					<Name>СтатусПроведения</Name>
+					<Name>Наименование</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Статус проведения</v8:content>
-						</v8:item>
-					</Synonym>
-					<Comment/>
-					<Type>
-						<v8:Type>cfg:EnumRef.КСП_СтатусыОтложенногоПроведения</v8:Type>
-					</Type>
-					<PasswordMode>false</PasswordMode>
-					<Format/>
-					<EditFormat/>
-					<ToolTip/>
-					<MarkNegatives>false</MarkNegatives>
-					<Mask/>
-					<MultiLine>false</MultiLine>
-					<ExtendedEdit>false</ExtendedEdit>
-					<MinValue xsi:nil="true"/>
-					<MaxValue xsi:nil="true"/>
-					<FillFromFillingValue>false</FillFromFillingValue>
-					<FillValue xsi:nil="true"/>
-					<FillChecking>DontCheck</FillChecking>
-					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-					<ChoiceParameterLinks/>
-					<ChoiceParameters/>
-					<QuickChoice>Auto</QuickChoice>
-					<CreateOnInput>Auto</CreateOnInput>
-					<ChoiceForm/>
-					<LinkByType/>
-					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
-					<Indexing>DontIndex</Indexing>
-					<FullTextSearch>Use</FullTextSearch>
-					<DataHistory>Use</DataHistory>
-				</Properties>
-			</Resource>
-			<Attribute uuid="67e0c4c3-53d7-46bf-af59-881ceb8b6583">
-				<Properties>
-					<Name>ДатаОбработки</Name>
-					<Synonym>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Дата обработки</v8:content>
-						</v8:item>
-					</Synonym>
-					<Comment/>
-					<Type>
-						<v8:Type>xs:dateTime</v8:Type>
-						<v8:DateQualifiers>
-							<v8:DateFractions>DateTime</v8:DateFractions>
-						</v8:DateQualifiers>
-					</Type>
-					<PasswordMode>false</PasswordMode>
-					<Format/>
-					<EditFormat/>
-					<ToolTip/>
-					<MarkNegatives>false</MarkNegatives>
-					<Mask/>
-					<MultiLine>false</MultiLine>
-					<ExtendedEdit>false</ExtendedEdit>
-					<MinValue xsi:nil="true"/>
-					<MaxValue xsi:nil="true"/>
-					<FillFromFillingValue>false</FillFromFillingValue>
-					<FillValue xsi:nil="true"/>
-					<FillChecking>DontCheck</FillChecking>
-					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-					<ChoiceParameterLinks/>
-					<ChoiceParameters/>
-					<QuickChoice>Auto</QuickChoice>
-					<CreateOnInput>Auto</CreateOnInput>
-					<ChoiceForm/>
-					<LinkByType/>
-					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
-					<Indexing>DontIndex</Indexing>
-					<FullTextSearch>Use</FullTextSearch>
-					<DataHistory>Use</DataHistory>
-				</Properties>
-			</Attribute>
-			<Attribute uuid="94662870-afe2-4601-9d07-0952340867ce">
-				<Properties>
-					<Name>ОшибкаПроведения</Name>
-					<Synonym>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Ошибка проведения</v8:content>
+							<v8:content>Наименование</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
 						<v8:Type>xs:string</v8:Type>
 						<v8:StringQualifiers>
-							<v8:Length>0</v8:Length>
+							<v8:Length>250</v8:Length>
 							<v8:AllowedLength>Variable</v8:AllowedLength>
 						</v8:StringQualifiers>
 					</Type>
@@ -337,27 +256,23 @@
 					<FullTextSearch>Use</FullTextSearch>
 					<DataHistory>Use</DataHistory>
 				</Properties>
-			</Attribute>
-			<Dimension uuid="e41a935e-d8f6-4076-b6b9-92a320d02764">
+			</Resource>
+			<Dimension uuid="a14bd6b0-3d0e-4cdf-80dd-633124e7f509">
 				<Properties>
-					<Name>ДокументСсылка</Name>
+					<Name>GUID</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Документ ссылка</v8:content>
+							<v8:content>GUID</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:Type>cfg:DocumentRef.ПриобретениеТоваровУслуг</v8:Type>
-						<v8:Type>cfg:DocumentRef.ПоступлениеБезналичныхДенежныхСредств</v8:Type>
-						<v8:Type>cfg:DocumentRef.ВзаимозачетЗадолженности</v8:Type>
-						<v8:Type>cfg:DocumentRef.РасходныйКассовыйОрдер</v8:Type>
-						<v8:Type>cfg:DocumentRef.РеализацияТоваровУслуг</v8:Type>
-						<v8:Type>cfg:DocumentRef.СписаниеБезналичныхДенежныхСредств</v8:Type>
-						<v8:Type>cfg:DocumentRef.ПриходныйКассовыйОрдер</v8:Type>
-						<v8:Type>cfg:DocumentRef.ЗаказКлиента</v8:Type>
-						<v8:Type>cfg:DocumentRef.ВозвратТоваровОтКлиента</v8:Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>36</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>
@@ -369,8 +284,8 @@
 					<ExtendedEdit>false</ExtendedEdit>
 					<MinValue xsi:nil="true"/>
 					<MaxValue xsi:nil="true"/>
-					<FillFromFillingValue>true</FillFromFillingValue>
-					<FillValue xsi:nil="true"/>
+					<FillFromFillingValue>false</FillFromFillingValue>
+					<FillValue xsi:type="xs:string"/>
 					<FillChecking>DontCheck</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
 					<ChoiceParameterLinks/>
@@ -380,7 +295,7 @@
 					<ChoiceForm/>
 					<LinkByType/>
 					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
-					<Master>true</Master>
+					<Master>false</Master>
 					<MainFilter>true</MainFilter>
 					<DenyIncompleteValues>false</DenyIncompleteValues>
 					<Indexing>DontIndex</Indexing>
@@ -388,7 +303,52 @@
 					<DataHistory>Use</DataHistory>
 				</Properties>
 			</Dimension>
-			<Form>ФормаЗаписи</Form>
+			<Dimension uuid="0b0901ce-8764-4a2e-8a48-166e029f022c">
+				<Properties>
+					<Name>ВнешняяСистема</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Внешняя система</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>20</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+					<PasswordMode>false</PasswordMode>
+					<Format/>
+					<EditFormat/>
+					<ToolTip/>
+					<MarkNegatives>false</MarkNegatives>
+					<Mask/>
+					<MultiLine>false</MultiLine>
+					<ExtendedEdit>false</ExtendedEdit>
+					<MinValue xsi:nil="true"/>
+					<MaxValue xsi:nil="true"/>
+					<FillFromFillingValue>false</FillFromFillingValue>
+					<FillValue xsi:type="xs:string"/>
+					<FillChecking>DontCheck</FillChecking>
+					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
+					<ChoiceParameterLinks/>
+					<ChoiceParameters/>
+					<QuickChoice>Auto</QuickChoice>
+					<CreateOnInput>Auto</CreateOnInput>
+					<ChoiceForm/>
+					<LinkByType/>
+					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<Master>false</Master>
+					<MainFilter>true</MainFilter>
+					<DenyIncompleteValues>false</DenyIncompleteValues>
+					<Indexing>DontIndex</Indexing>
+					<FullTextSearch>Use</FullTextSearch>
+					<DataHistory>Use</DataHistory>
+				</Properties>
+			</Dimension>
 		</ChildObjects>
 	</InformationRegister>
 </MetaDataObject>

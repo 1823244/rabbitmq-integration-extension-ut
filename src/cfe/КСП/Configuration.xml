@@ -75,6 +75,7 @@
 			<ExchangePlan>Кодерлайн_интеграция</ExchangePlan>
 			<EventSubscription>ксп_ПриЗаписиДокумента</EventSubscription>
 			<Constant>ксп_УзелОбменаRabbit</Constant>
+			<CommonForm>ПредупреждениеБезопасности</CommonForm>
 			<Catalog>БанковскиеСчетаОрганизаций</Catalog>
 			<Catalog>КлассификаторБанков</Catalog>
 			<Catalog>БанковскиеСчетаКонтрагентов</Catalog>
@@ -93,10 +94,18 @@
 			<Catalog>СоглашенияСПоставщиками</Catalog>
 			<Catalog>ДоговорыКонтрагентов</Catalog>
 			<Catalog>Склады</Catalog>
+			<Catalog>Кассы</Catalog>
+			<Catalog>ФизическиеЛица</Catalog>
+			<Catalog>СтатьиДвиженияДенежныхСредств</Catalog>
 			<Document>РеализацияТоваровУслуг</Document>
 			<Document>ВозвратТоваровОтКлиента</Document>
 			<Document>ПриобретениеТоваровУслуг</Document>
 			<Document>ЗаказКлиента</Document>
+			<Document>ВзаимозачетЗадолженности</Document>
+			<Document>ПриходныйКассовыйОрдер</Document>
+			<Document>РасходныйКассовыйОрдер</Document>
+			<Document>ПоступлениеБезналичныхДенежныхСредств</Document>
+			<Document>СписаниеБезналичныхДенежныхСредств</Document>
 			<Enum>ксп_СтатусыКачестваДокументов</Enum>
 			<Enum>КСП_СтатусыОтложенногоПроведения</Enum>
 			<Enum>ксп_ВидыПроблемКачестваДокументов</Enum>
@@ -108,6 +117,9 @@
 			<InformationRegister>ксп_ДополнительныеНастройкиИнтеграций</InformationRegister>
 			<InformationRegister>ксп_МэппингСправочникСклады</InformationRegister>
 			<InformationRegister>ксп_МэппингСправочникКонтрагенты</InformationRegister>
+			<InformationRegister>ксп_МэппингСправочникКассы</InformationRegister>
+			<InformationRegister>ксп_МэппингСправочникФизлица</InformationRegister>
+			<InformationRegister>ксп_МэппингСправочникСтатьиДДС</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
