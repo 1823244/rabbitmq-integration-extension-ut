@@ -97,6 +97,8 @@
 			<Catalog>Кассы</Catalog>
 			<Catalog>ФизическиеЛица</Catalog>
 			<Catalog>СтатьиДвиженияДенежныхСредств</Catalog>
+			<Catalog>ВидыЦен</Catalog>
+			<Catalog>КоллекцииНоменклатуры</Catalog>
 			<Document>РеализацияТоваровУслуг</Document>
 			<Document>ВозвратТоваровОтКлиента</Document>
 			<Document>ПриобретениеТоваровУслуг</Document>
@@ -120,6 +122,8 @@
 			<InformationRegister>ксп_МэппингСправочникКассы</InformationRegister>
 			<InformationRegister>ксп_МэппингСправочникФизлица</InformationRegister>
 			<InformationRegister>ксп_МэппингСправочникСтатьиДДС</InformationRegister>
+			<InformationRegister>ксп_МэппингСправочникВидыЦен</InformationRegister>
+			<InformationRegister>ксп_МэппингСправочникКоллекцииНоменклатуры</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

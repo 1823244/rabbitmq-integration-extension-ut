@@ -1,42 +1,42 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
-	<InformationRegister uuid="fa454707-82ca-4d2a-a15a-6cc459ffa162">
+	<InformationRegister uuid="3ef851f2-1b66-468b-b84f-968f0c1f5543">
 		<InternalInfo>
-			<xr:GeneratedType name="InformationRegisterRecord.ксп_МэппингСправочникВидыНоменклатуры" category="Record">
-				<xr:TypeId>8b393bfb-b68d-4ef0-85f0-f62466bd9c11</xr:TypeId>
-				<xr:ValueId>707931a6-0469-4e5d-87d1-d57b580ec9d8</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecord.ксп_МэппингСправочникВидыЦен" category="Record">
+				<xr:TypeId>1d8b060c-dbc9-40ed-a8f1-4a33542ec9a6</xr:TypeId>
+				<xr:ValueId>75f22967-31d8-4961-8636-aad80fdbe2b5</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterManager.ксп_МэппингСправочникВидыНоменклатуры" category="Manager">
-				<xr:TypeId>50a600a9-0df9-4ffb-a6ae-3aff7dbc8987</xr:TypeId>
-				<xr:ValueId>8a48d40b-bd10-4644-a10b-a36711c2ccaf</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterManager.ксп_МэппингСправочникВидыЦен" category="Manager">
+				<xr:TypeId>51bdace9-0fb2-44ed-b47a-052bdee764d4</xr:TypeId>
+				<xr:ValueId>9c4bb15c-bd27-4b69-a83b-6ebe27120cc1</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterSelection.ксп_МэппингСправочникВидыНоменклатуры" category="Selection">
-				<xr:TypeId>8aef8f01-bdac-4d85-9b35-9a9657314274</xr:TypeId>
-				<xr:ValueId>dff8dfe5-fe43-4b03-b717-9fd4b976ab93</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterSelection.ксп_МэппингСправочникВидыЦен" category="Selection">
+				<xr:TypeId>8590a5ae-614b-4864-aabf-9427f924c089</xr:TypeId>
+				<xr:ValueId>49ab62bd-5b6c-41a0-b24e-4fa7ac81845e</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterList.ксп_МэппингСправочникВидыНоменклатуры" category="List">
-				<xr:TypeId>e97cbacc-8fd0-4c74-8611-c046cf0d1d16</xr:TypeId>
-				<xr:ValueId>09e355c3-d26e-469e-87e5-d1754eb0083b</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterList.ксп_МэппингСправочникВидыЦен" category="List">
+				<xr:TypeId>d7cc85cd-eb10-4fd2-9239-3239ab43b424</xr:TypeId>
+				<xr:ValueId>3d678601-1578-42cc-9fd9-c0a1fd1ae6ae</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterRecordSet.ксп_МэппингСправочникВидыНоменклатуры" category="RecordSet">
-				<xr:TypeId>1b244405-8fa1-40a5-ac54-9d72d69db279</xr:TypeId>
-				<xr:ValueId>c63a4ea9-114c-4d79-9dea-338f77904a13</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecordSet.ксп_МэппингСправочникВидыЦен" category="RecordSet">
+				<xr:TypeId>6254b348-937a-44d5-83f8-13181ebb49ea</xr:TypeId>
+				<xr:ValueId>2e3f8966-d356-483d-8ab3-07d006598e43</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterRecordKey.ксп_МэппингСправочникВидыНоменклатуры" category="RecordKey">
-				<xr:TypeId>fe4f86a1-4f6e-4b9d-a875-a3bc286356be</xr:TypeId>
-				<xr:ValueId>284fff5e-b9a3-467d-a240-887db1289960</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecordKey.ксп_МэппингСправочникВидыЦен" category="RecordKey">
+				<xr:TypeId>ca3945a7-f95b-4049-829f-260e0151a184</xr:TypeId>
+				<xr:ValueId>bd5135ee-091c-4efe-afe9-935881c71790</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterRecordManager.ксп_МэппингСправочникВидыНоменклатуры" category="RecordManager">
-				<xr:TypeId>770d089c-2c50-4f2b-be22-88bc597959df</xr:TypeId>
-				<xr:ValueId>aa184e9b-687e-4caf-b0b1-cf55815ce05f</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecordManager.ксп_МэппингСправочникВидыЦен" category="RecordManager">
+				<xr:TypeId>9226f760-4dcf-4c5a-8775-929a80e40c4d</xr:TypeId>
+				<xr:ValueId>0321081c-25d1-4c51-9405-154b2b6e2f6b</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>ксп_МэппингСправочникВидыНоменклатуры</Name>
+			<Name>ксп_МэппингСправочникВидыЦен</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Мэппинг: справочник Виды номенклатуры</v8:content>
+					<v8:content>Мэппинг: справочник Виды цен</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -46,6 +46,112 @@
 			<DefaultListForm/>
 			<AuxiliaryRecordForm/>
 			<AuxiliaryListForm/>
+			<StandardAttributes>
+				<xr:StandardAttribute name="Active">
+					<xr:LinkByType/>
+					<xr:FillChecking>DontCheck</xr:FillChecking>
+					<xr:MultiLine>false</xr:MultiLine>
+					<xr:FillFromFillingValue>false</xr:FillFromFillingValue>
+					<xr:CreateOnInput>Auto</xr:CreateOnInput>
+					<xr:MaxValue xsi:nil="true"/>
+					<xr:ToolTip/>
+					<xr:ExtendedEdit>false</xr:ExtendedEdit>
+					<xr:Format/>
+					<xr:ChoiceForm/>
+					<xr:QuickChoice>Auto</xr:QuickChoice>
+					<xr:ChoiceHistoryOnInput>Auto</xr:ChoiceHistoryOnInput>
+					<xr:EditFormat/>
+					<xr:PasswordMode>false</xr:PasswordMode>
+					<xr:DataHistory>Use</xr:DataHistory>
+					<xr:MarkNegatives>false</xr:MarkNegatives>
+					<xr:MinValue xsi:nil="true"/>
+					<xr:Synonym/>
+					<xr:Comment/>
+					<xr:FullTextSearch>Use</xr:FullTextSearch>
+					<xr:ChoiceParameterLinks/>
+					<xr:FillValue xsi:nil="true"/>
+					<xr:Mask/>
+					<xr:ChoiceParameters/>
+				</xr:StandardAttribute>
+				<xr:StandardAttribute name="LineNumber">
+					<xr:LinkByType/>
+					<xr:FillChecking>DontCheck</xr:FillChecking>
+					<xr:MultiLine>false</xr:MultiLine>
+					<xr:FillFromFillingValue>false</xr:FillFromFillingValue>
+					<xr:CreateOnInput>Auto</xr:CreateOnInput>
+					<xr:MaxValue xsi:nil="true"/>
+					<xr:ToolTip/>
+					<xr:ExtendedEdit>false</xr:ExtendedEdit>
+					<xr:Format/>
+					<xr:ChoiceForm/>
+					<xr:QuickChoice>Auto</xr:QuickChoice>
+					<xr:ChoiceHistoryOnInput>Auto</xr:ChoiceHistoryOnInput>
+					<xr:EditFormat/>
+					<xr:PasswordMode>false</xr:PasswordMode>
+					<xr:DataHistory>Use</xr:DataHistory>
+					<xr:MarkNegatives>false</xr:MarkNegatives>
+					<xr:MinValue xsi:nil="true"/>
+					<xr:Synonym/>
+					<xr:Comment/>
+					<xr:FullTextSearch>Use</xr:FullTextSearch>
+					<xr:ChoiceParameterLinks/>
+					<xr:FillValue xsi:nil="true"/>
+					<xr:Mask/>
+					<xr:ChoiceParameters/>
+				</xr:StandardAttribute>
+				<xr:StandardAttribute name="Recorder">
+					<xr:LinkByType/>
+					<xr:FillChecking>DontCheck</xr:FillChecking>
+					<xr:MultiLine>false</xr:MultiLine>
+					<xr:FillFromFillingValue>false</xr:FillFromFillingValue>
+					<xr:CreateOnInput>Auto</xr:CreateOnInput>
+					<xr:MaxValue xsi:nil="true"/>
+					<xr:ToolTip/>
+					<xr:ExtendedEdit>false</xr:ExtendedEdit>
+					<xr:Format/>
+					<xr:ChoiceForm/>
+					<xr:QuickChoice>Auto</xr:QuickChoice>
+					<xr:ChoiceHistoryOnInput>Auto</xr:ChoiceHistoryOnInput>
+					<xr:EditFormat/>
+					<xr:PasswordMode>false</xr:PasswordMode>
+					<xr:DataHistory>Use</xr:DataHistory>
+					<xr:MarkNegatives>false</xr:MarkNegatives>
+					<xr:MinValue xsi:nil="true"/>
+					<xr:Synonym/>
+					<xr:Comment/>
+					<xr:FullTextSearch>Use</xr:FullTextSearch>
+					<xr:ChoiceParameterLinks/>
+					<xr:FillValue xsi:nil="true"/>
+					<xr:Mask/>
+					<xr:ChoiceParameters/>
+				</xr:StandardAttribute>
+				<xr:StandardAttribute name="Period">
+					<xr:LinkByType/>
+					<xr:FillChecking>ShowError</xr:FillChecking>
+					<xr:MultiLine>false</xr:MultiLine>
+					<xr:FillFromFillingValue>false</xr:FillFromFillingValue>
+					<xr:CreateOnInput>Auto</xr:CreateOnInput>
+					<xr:MaxValue xsi:nil="true"/>
+					<xr:ToolTip/>
+					<xr:ExtendedEdit>false</xr:ExtendedEdit>
+					<xr:Format/>
+					<xr:ChoiceForm/>
+					<xr:QuickChoice>Auto</xr:QuickChoice>
+					<xr:ChoiceHistoryOnInput>Auto</xr:ChoiceHistoryOnInput>
+					<xr:EditFormat/>
+					<xr:PasswordMode>false</xr:PasswordMode>
+					<xr:DataHistory>Use</xr:DataHistory>
+					<xr:MarkNegatives>false</xr:MarkNegatives>
+					<xr:MinValue xsi:nil="true"/>
+					<xr:Synonym/>
+					<xr:Comment/>
+					<xr:FullTextSearch>Use</xr:FullTextSearch>
+					<xr:ChoiceParameterLinks/>
+					<xr:FillValue xsi:nil="true"/>
+					<xr:Mask/>
+					<xr:ChoiceParameters/>
+				</xr:StandardAttribute>
+			</StandardAttributes>
 			<InformationRegisterPeriodicity>Nonperiodical</InformationRegisterPeriodicity>
 			<WriteMode>Independent</WriteMode>
 			<MainFilterOnPeriod>false</MainFilterOnPeriod>
@@ -64,18 +170,18 @@
 			<ExecuteAfterWriteDataHistoryVersionProcessing>false</ExecuteAfterWriteDataHistoryVersionProcessing>
 		</Properties>
 		<ChildObjects>
-			<Resource uuid="2746012c-dccf-479f-8232-e1b41758bc3b">
+			<Resource uuid="e973bf6a-fab2-45d8-afb4-55ceef43e3cf">
 				<Properties>
-					<Name>ВидНоменклатуры</Name>
+					<Name>ВидЦены</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Вид номенклатуры</v8:content>
+							<v8:content>Вид цены</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:Type>cfg:CatalogRef.ВидыНоменклатуры</v8:Type>
+						<v8:Type>cfg:CatalogRef.ВидыЦен</v8:Type>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>
@@ -103,13 +209,13 @@
 					<DataHistory>Use</DataHistory>
 				</Properties>
 			</Resource>
-			<Dimension uuid="dbc94989-ba54-4298-99eb-1415c2e2ca20">
+			<Resource uuid="c55bdd53-4d48-4b0c-a770-9ca9a52a9251">
 				<Properties>
-					<Name>Соответствие</Name>
+					<Name>Наименование</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Соответствие</v8:content>
+							<v8:content>Наименование</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -141,28 +247,25 @@
 					<ChoiceForm/>
 					<LinkByType/>
 					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
-					<Master>false</Master>
-					<MainFilter>true</MainFilter>
-					<DenyIncompleteValues>false</DenyIncompleteValues>
 					<Indexing>DontIndex</Indexing>
 					<FullTextSearch>Use</FullTextSearch>
 					<DataHistory>Use</DataHistory>
 				</Properties>
-			</Dimension>
-			<Dimension uuid="c36a2be1-b3d5-4302-88d4-6bd614f4e6ee">
+			</Resource>
+			<Dimension uuid="1d76b30b-413f-4607-9967-e5f64ea38df5">
 				<Properties>
-					<Name>ТипСоответствия</Name>
+					<Name>GUID</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Тип соответствия</v8:content>
+							<v8:content>GUID</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
 						<v8:Type>xs:string</v8:Type>
 						<v8:StringQualifiers>
-							<v8:Length>20</v8:Length>
+							<v8:Length>36</v8:Length>
 							<v8:AllowedLength>Variable</v8:AllowedLength>
 						</v8:StringQualifiers>
 					</Type>
@@ -195,7 +298,7 @@
 					<DataHistory>Use</DataHistory>
 				</Properties>
 			</Dimension>
-			<Dimension uuid="50e2f51f-f3cf-45f9-be4a-1d2983d312ae">
+			<Dimension uuid="8ca402df-b2d9-4df8-951b-65bc33de78fd">
 				<Properties>
 					<Name>ВнешняяСистема</Name>
 					<Synonym>
